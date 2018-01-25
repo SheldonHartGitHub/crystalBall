@@ -1,3 +1,12 @@
+"""
+crystalBall simple Python practice project by Sheldon Hart.
+I copied this code from Kenneth Love of Team Treehouse in their
+YouTube video, "What is Python Used For" (https://www.youtube.com/watch?v=J9BTrvosOOM)
+This was a great way for me to practice creating a simple application, as well as learning
+how to troubleshoot and correctly install modules. Big thanks for Mr. Love for displaying
+his original crystal ball application.
+"""
+
 import PIL
 from PIL import Image, ImageTk
 import random
